@@ -1,1 +1,3 @@
-The alignments folder contains the molecular sequence alignments used for the phylogenetic analyses. The 28S, RPB2, and TEF1 genes are provided as separate files, all previously aligned and trimmed.
+The alignments folder contains the molecular sequence datasets used for the phylogenetic analyses. For each locus (28S, RPB2, and TEF1), three versions of the sequences are provided: 
+the original sequences, without alignment or trimming; the aligned sequences, before trimming;
+and the aligned and trimmed sequences used in the phylogenetic analyses.
